@@ -2,30 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/android/</loc>
+    <loc>https://ahmadfathur.github.io/tags/css/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ahmadfathur.github.io/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://ahmadfathur.github.io/tags/html-5/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/firebase-realtime-database/</loc>
+    <loc>https://ahmadfathur.github.io/tags/laravel/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ahmadfathur.github.io/tags/mysql/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html-5/</loc>
+    <loc>https://ahmadfathur.github.io/tags/php/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://ahmadfathur.github.io/projects/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/laravel/</loc>
+    <loc>https://ahmadfathur.github.io/projects/shinedu/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mysql/</loc>
+    <loc>https://ahmadfathur.github.io/tags/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/php/</loc>
+    <loc>https://ahmadfathur.github.io/tags/tailwind-css/</loc>
+    <lastmod>2025-11-04T14:22:37+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/supabase/</loc>
+    <loc>https://ahmadfathur.github.io/tags/android/</loc>
+    <lastmod>2025-04-13T14:29:05+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ahmadfathur.github.io/tags/firebase-realtime-database/</loc>
+    <lastmod>2025-04-13T14:29:05+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tailwind-css/</loc>
+    <loc>https://ahmadfathur.github.io/projects/imoney/</loc>
+    <lastmod>2025-04-13T14:29:05+07:00</lastmod>
+  </url><url>
+    <loc>https://ahmadfathur.github.io/tags/java/</loc>
+    <lastmod>2025-04-13T14:29:05+07:00</lastmod>
+  </url><url>
+    <loc>https://ahmadfathur.github.io/tags/supabase/</loc>
+    <lastmod>2025-04-13T14:29:05+07:00</lastmod>
+  </url><url>
+    <loc>https://ahmadfathur.github.io/categories/</loc>
+  </url><url>
+    <loc>https://ahmadfathur.github.io/contact/</loc>
+  </url><url>
+    <loc>https://ahmadfathur.github.io/about/</loc>
   </url>
 </urlset>
