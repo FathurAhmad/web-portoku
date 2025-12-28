@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Portofolio - Ahmad Fathur Rahman</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://fathurahmad.github.io/tags/</link>
     <description>Recent content in Tags on Portofolio - Ahmad Fathur Rahman</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fathurahmad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/tags/android/</link>
+      <link>https://fathurahmad.github.io/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/android/</guid>
+      <guid>https://fathurahmad.github.io/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://fathurahmad.github.io/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://fathurahmad.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Firebase Realtime Database</title>
-      <link>http://localhost:1313/tags/firebase-realtime-database/</link>
+      <link>https://fathurahmad.github.io/tags/firebase-realtime-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/firebase-realtime-database/</guid>
+      <guid>https://fathurahmad.github.io/tags/firebase-realtime-database/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML 5</title>
-      <link>http://localhost:1313/tags/html-5/</link>
+      <link>https://fathurahmad.github.io/tags/html-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html-5/</guid>
+      <guid>https://fathurahmad.github.io/tags/html-5/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://fathurahmad.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://fathurahmad.github.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Laravel</title>
-      <link>http://localhost:1313/tags/laravel/</link>
+      <link>https://fathurahmad.github.io/tags/laravel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/laravel/</guid>
+      <guid>https://fathurahmad.github.io/tags/laravel/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1313/tags/mysql/</link>
+      <link>https://fathurahmad.github.io/tags/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mysql/</guid>
+      <guid>https://fathurahmad.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/tags/php/</link>
+      <link>https://fathurahmad.github.io/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/php/</guid>
+      <guid>https://fathurahmad.github.io/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Supabase</title>
-      <link>http://localhost:1313/tags/supabase/</link>
+      <link>https://fathurahmad.github.io/tags/supabase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/supabase/</guid>
+      <guid>https://fathurahmad.github.io/tags/supabase/</guid>
       <description></description>
     </item>
     <item>
       <title>Tailwind CSS</title>
-      <link>http://localhost:1313/tags/tailwind-css/</link>
+      <link>https://fathurahmad.github.io/tags/tailwind-css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tailwind-css/</guid>
+      <guid>https://fathurahmad.github.io/tags/tailwind-css/</guid>
       <description></description>
     </item>
   </channel>
