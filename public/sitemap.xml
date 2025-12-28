@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/android/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/css/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/firebase-realtime-database/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/html-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/java/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/laravel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/mysql/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/php/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/supabase/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tailwind-css/</loc>
+  </url>
+</urlset>
