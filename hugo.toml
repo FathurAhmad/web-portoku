@@ -1,8 +1,8 @@
-baseURL = "https://web-portoku-esowznb5r-fathurahmads-projects.vercel.app/"
+baseURL = "/"
 languageCode = 'en-us'
 title = 'Portofolio - Ahmad Fathur Rahman'
 theme = 'PaperMod'
-canonifyURLs = true
+canonifyURLs = false
 relativeURLs = false
 
 [[menu.main]]
