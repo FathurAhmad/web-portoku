@@ -2,45 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CSS on Portofolio - Ahmad Fathur Rahman</title>
-    <link>https://ahmadfathur.github.io/tags/css/</link>
+    <link>https://fathurahmad.github.io/tags/css/</link>
     <description>Recent content in CSS on Portofolio - Ahmad Fathur Rahman</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 14:22:37 +0700</lastBuildDate>
-    <atom:link href="https://ahmadfathur.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shinedu</title>
-      <link>https://ahmadfathur.github.io/projects/shinedu/</link>
-      <pubDate>Tue, 04 Nov 2025 14:22:37 +0700</pubDate>
-      <guid>https://ahmadfathur.github.io/projects/shinedu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Learning Management System&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Aplikasi pembelajaran daring berbasis website yang interaktif dan menyenangkan bagi pelajar.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Teknologi:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Laravel (Blade Template)&lt;/li&gt;
-&lt;li&gt;Tailwind CSS&lt;/li&gt;
-&lt;li&gt;HTML5 &amp;amp; CSS3&lt;/li&gt;
-&lt;li&gt;Cloud Hosting (Deployment)&lt;/li&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Fitur utama:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Login Aplikasi&lt;/li&gt;
-&lt;li&gt;Sign Up Aplikasi&lt;/li&gt;
-&lt;li&gt;Dashboard&lt;/li&gt;
-&lt;li&gt;Materi&lt;/li&gt;
-&lt;li&gt;Baca Materi &amp;amp; Kuis&lt;/li&gt;
-&lt;li&gt;Penghargaan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Peran:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;UI/UX Designer&lt;/li&gt;
-&lt;li&gt;Backend Developer&lt;/li&gt;
-&lt;li&gt;Frontend Developer&lt;/li&gt;
-&lt;li&gt;Deployment&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Repo:&lt;/strong&gt;
-&lt;a href=&#34;https://github.com/unicorn03/shinedu&#34;&gt;https://github.com/unicorn03/shinedu&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://fathurahmad.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
