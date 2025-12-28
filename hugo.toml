@@ -1,4 +1,4 @@
-baseURL = 'https://fathurahmad.github.io/web-portoku/'
+baseURL = 'https://fathurahmad.github.io/'
 languageCode = 'en-us'
 title = 'Portofolio - Ahmad Fathur Rahman'
 theme = 'PaperMod'
