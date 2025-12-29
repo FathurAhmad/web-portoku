@@ -1,5 +1,6 @@
 ---
 title: "Home"
+layout: "single"
 ---
 
 Halo, saya **Ahmad Fathur Rahman**  
