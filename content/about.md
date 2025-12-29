@@ -2,7 +2,7 @@
 title: "Tentang Saya"
 ---
 
-Mahasiswa Teknologi Informasi semester 4.
+Mahasiswa Teknologi Informasi semester 6.
 
 Saya tertarik pada pengembangan aplikasi Android,
 website, dan sistem berbasis cloud.

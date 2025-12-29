@@ -8,5 +8,3 @@ Mahasiswa Teknologi Informasi yang sedang menempuh semester 6. Aktif dalam kegia
 Saya fokus pada:
 - Web Development
 - Android Development
-
-Silakan lihat project saya di bawah.
