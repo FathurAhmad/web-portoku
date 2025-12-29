@@ -1,9 +1,7 @@
-baseURL = "/"
+baseURL = 'http://localhost/'
 languageCode = 'en-us'
 title = 'Portofolio - Ahmad Fathur Rahman'
 theme = 'PaperMod'
-canonifyURLs = false
-relativeURLs = false
 
 [[menu.main]]
 name = "Home"
