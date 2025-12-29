@@ -1,7 +1,8 @@
-baseURL = 'https://web-portoku-8ahggvcip-fathurahmads-projects.vercel.app/'
+baseURL = 'https://web-portoku-gold.vercel.app/'
 languageCode = 'en-us'
 title = 'Portofolio - Ahmad Fathur Rahman'
 theme = 'PaperMod'
+canonifyURLs = true
 
 [[menu.main]]
 name = "Home"
